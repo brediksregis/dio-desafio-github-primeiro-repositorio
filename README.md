@@ -9,11 +9,11 @@ Estou estudando tecnologia e Cloud Computing na **DIO**!
 
 ## O que foi realizado:
 
-Criação do repositório remoto no GitHub;
-Clone do repositório para o ambiente local via terminal (git clone);
-Estruturação e edição da documentação inicial no arquivo README.md;
-Versionamento e envio dos arquivos atualizados para a nuvem utilizando a sequência de comandos git add, git commit e git push.
-Tecnologias e Ferramentas: Git, GitHub, Terminal e Markdown.
+- Criação do repositório remoto no GitHub;
+- Clone do repositório para o ambiente local via terminal (git clone);
+- Estruturação e edição da documentação inicial no arquivo README.md;
+- Versionamento e envio dos arquivos atualizados para a nuvem utilizando a sequência de comandos git add, git commit e git push.
+- Tecnologias e Ferramentas: Git, GitHub, Terminal e Markdown.
 
 ---
 *Projeto desenvolvido por Reginaldo Brediks
