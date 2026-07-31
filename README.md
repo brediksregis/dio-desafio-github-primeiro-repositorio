@@ -16,4 +16,4 @@ Estou estudando tecnologia e Cloud Computing na **DIO**!
 - Tecnologias e Ferramentas: Git, GitHub, Terminal e Markdown.
 
 ---
-*Projeto desenvolvido por Reginaldo Brediks
+*Projeto desenvolvido por Reginaldo Brediks com ajuda o Dio Agent.
